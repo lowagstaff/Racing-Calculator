@@ -1,0 +1,25 @@
+Num, Name, Year, Engine Type, 0-60, Top Speed
+1,Porsche 911 Turbo S,2020,ICE,2.5,205
+2,Porsche 918 Spyder,2013,Hybrid,2.53,214
+3,Lamborghini Huracan Performante,2017,ICE,2.6,201
+4,Porsche Taycan Turbo S,2019,Electric,2.6,162
+5,Bugatti Veyron Super Sport,2010,ICE,2.7,257
+6,Porsche 911 GT2 RS,2017,ICE,2.7,211
+7,McLaren 720S,2017,ICE,2.7,212
+8,Audi R8 V10 Plus,2015,ICE,2.8,198
+9,Lamborghini Aventador SV,2015,ICE,2.8,217
+10,Bugatti Veyron,2005,ICE,2.84,253
+11,McLaren 570s,2016,ICE,2.9,204
+12,BMW M5 Competition,2018,ICE,2.9,189
+13,Ferrari 488 Pista,2018,ICE,2.9,211
+14,Tesla Model S Performance w/Ludicrous Mode,2019,Electric,2.9,155
+15,BMW M5 CS,2020,ICE,2.9,163
+16,Chevrolet Corvette C8 Stingray Z51,2020,ICE,2.9,194
+17,Mercedes-AMG GT 63 S 4MATIC+,2018,ICE,2.99,192
+18,McLaren 675LT,2015,ICE,3.0,205
+19,Ferrari 812 Superfast,2017,ICE,3.0,211
+20,BMW M8 Competition,2019,ICE,3.0,155
+21,Nissan GT-R Nismo,2020,ICE,3.0,195
+22,Porsche Panamera Turbo S,2020,ICE,3.0,188
+23,Lamborghini Huracan STO,2021,ICE,3.0,193
+24,Porsche 911 GT3,2021,ICE,3.0,199
