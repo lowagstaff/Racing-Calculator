@@ -12,14 +12,10 @@ car_speed = 5
 
 def test_read_vehicle_dict():
 
-
-        # Call the make_periodic_table and store the returned
-    # periodic table in a variable named periodic_table_list.
     vehicle_dict = read_vehicle_dict("vehicles.csv", car_num)
 
-    # Verify that the make_periodic_table function returns a dictionary.
     assert isinstance(vehicle_dict, dict), \
-        "make_periodic_table function must return a dictionary: " \
+        "read_vehicle_dict function must return a dictionary: " \
         f" expected a dictionary but found a {type(vehicle_dict)}"
 
     check_info(vehicle_dict, '1', ['1', 'Porsche 911 Turbo S', '2020', 'ICE', '2.5', '205'])
